@@ -5,10 +5,12 @@
 The purpose of this project is to help Steve research and analysis which green energy company would be best for his parents to invest in as his first clients. They are leaning towards DQ so, using VBA, we will determine if their plan to go with DQ is the right move. 
 ### Results
 2017 and 2018 had wildly different results. 2017 was the more successful year with one tiny exception, TERP. Though TERP, while not in the green, does improve the next year. Unfortunately, we cannot say that about most of the tickers in 2018.  ENPH and RUN would be the two that should be investigated rather that DQ as the not only grew in Total Daily Value in a year but also grew in returns. 
+
 ![2017 png](https://user-images.githubusercontent.com/88864493/133023288-34aae532-7c66-4f65-a81a-9f8e9d95362a.jpg)
 ![2018 png](https://user-images.githubusercontent.com/88864493/133023292-15963431-f881-438c-bcf9-fc37dd5cf191.jpg)
 
 Due to the refactor code being more efficient, the run time for both dropped as well. When using the original code, I got 0.578 for 2017 as a run time and 0.559 for 2018 as a run time. Using the refactored code I was able to shave off 0.039 for 2017 and 0.043 for 2018.
+
 ![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/88864493/133023311-e76e4296-1297-443f-b723-93f0f3561cf6.jpg)
 ![VBA_Challenge_2018 png](https://user-images.githubusercontent.com/88864493/133023326-fd9aeb06-385c-4dd8-b3e5-f020e826900d.jpg)
 
